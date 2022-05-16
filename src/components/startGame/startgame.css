@@ -1,0 +1,18 @@
+        /*  En este archivo se crea todo tipo de estilos para la pagina */
+    .next {
+        margin: 0 0 0 20px;
+        padding: 10px 20px 10px 20px;
+        border: 2px solid rgb(0, 0, 0);
+        border-radius: 5px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        text-decoration: none;
+        color: #000;
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+    .next:hover {
+        background-color: black;
+        color: #fff;
+    }  

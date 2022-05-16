@@ -1,0 +1,9 @@
+    /*  En este archivo se crea todo tipo de estilos para la pagina */
+    .winner {
+        font-size: 30px;
+        font-weight: 500;
+    }
+
+    .container {
+        padding: 30px;
+    }

@@ -1,0 +1,43 @@
+        /*  En este archivo se crea todo tipo de estilos para la pagina */
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .containerStart {
+        border: 2px solid #000;
+        border-radius: 5px;
+        margin: 30px;
+        width: 50%;
+        box-shadow: 10px 10px 0px rgba(0, 0, 0, 0.24);
+        padding-bottom: 20px;
+    }
+
+    .titleStart {
+        text-align: center;
+        font-size: 100px;
+    }
+
+    .containerPlay {
+        display: flex;
+        justify-content: center;
+    }
+
+    .playStart {
+        font-size: 200px;
+        color: rgba(0, 0, 0, 0.26);
+        transition: all 0.3s ease;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+    .playStart:hover {
+        color: rgb(32, 32, 32);
+    }
+
+    .byStart {
+        padding: 20px 0 0 20px;
+        text-decoration: none;
+        color: #000;
+    }
